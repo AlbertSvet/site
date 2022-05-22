@@ -213,7 +213,7 @@ body {
 }
 
 .header {
-  background: url("../img/fon.png") 0 0/auto auto no-repeat;
+  background: url('img/fon.png') 0 0/auto auto no-repeat;
   height: 900px;
 }
 .header__flex {
